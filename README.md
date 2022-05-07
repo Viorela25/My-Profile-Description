@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Viorela25
+- 👋 Hi, I’m @viorelasilitra
 - 👀 I’m interested in ...data analytics and data science
 - 🌱 I’m currently learning ...SQL and phyton
 - 💞️ I’m looking to collaborate on ...
