@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @viorela
 - 👀 I’m interested in ...data analytics and data science
-- 🌱 I’m currently learning ...SQL and phyton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ...SQL, Python and Power BI
 
 <!---
 Viorela25/Viorela25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
