@@ -9,7 +9,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Coming from operations and customer service, I'm now stepping into data analytics. I’m passionate about making data work for people—ensuring insights are not just accurate, but also inclusive and meaningful. I care about diversity, visibility, and fair representation in the data world. 
+Coming from operations and customer service, I'm now stepping into data analytics. I’m passionate about making data work for people, ensuring insights are not just accurate, but also inclusive and meaningful. I care about diversity, visibility, and fair representation in the data world. 
 
 
 
