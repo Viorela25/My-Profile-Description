@@ -19,6 +19,8 @@ Connect with me:
 ## 🚀 My Projects
 
 ### The Unequal Reality: Women's Rights Worldwide Dashboard
+<img width="1300" height="591" alt="image" src="https://github.com/user-attachments/assets/714ab7e1-d486-4e6c-b9ab-cc181910b75d" />
+
 
 Project Overview
 This comprehensive Power BI dashboard, transforms complex global gender inequality data into an accessible, action-oriented visualization tool. The project spans seven interconnected sections, each revealing critical insights about women's rights worldwide.
