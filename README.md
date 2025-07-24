@@ -16,6 +16,15 @@ This dashboard depicts the inequality of rights worldwide, with a focus on women
 **Key Insights:**
 *   *More details coming soon!*
 
+### The Effects of Alcohol Consumption and Social Factors on Student Performance
+
+This dashboard analyzes the relationship between alcohol consumption, social factors, and academic performance among students.
+
+[View Dashboard](https://app.powerbi.com/links/iLJyd98ss2?ctid=4302c0e0-c13c-4843-957f-75bf0d3b8bff&pbi_source=linkShare)
+
+**Key Insights:**
+*   *More details coming soon!*
+
 ---
 *More projects will be added here.*
 
