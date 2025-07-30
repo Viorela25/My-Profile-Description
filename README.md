@@ -22,10 +22,10 @@ Connect with me:
 <img width="1300" height="591" alt="image" src="https://github.com/user-attachments/assets/714ab7e1-d486-4e6c-b9ab-cc181910b75d" />
 
 
-# Project Overview
+### Project Overview
 This comprehensive Power BI dashboard, transforms complex global gender inequality data into an accessible, action-oriented visualization tool. The project spans seven interconnected sections, each revealing critical insights about women's rights worldwide.
 
-Detailed Section Analysis
+#### Detailed Section Analysis
 1. Overview Page
 The executive summary presents key global statistics that immediately highlight the scope of gender inequality:
 Population Distribution: Near-equal global distribution (49.89% female vs 50.11% male) masks underlying disparities
