@@ -19,6 +19,7 @@ Connect with me:
 ## 🚀 My Projects
 
 ### The Unequal Reality: Women's Rights Worldwide Dashboard
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjQ0MGFkNzAtMGQxNi00NGFhLTllMmItNWNmMjVlODE3NjhhIiwidCI6IjQzMDJjMGUwLWMxM2MtNDg0My05NTdmLTc1YmYwZDNiOGJmZiIsImMiOjl9&pageName=40c13d602d5ba005d551)
 <img width="1300" height="591" alt="image" src="https://github.com/user-attachments/assets/714ab7e1-d486-4e6c-b9ab-cc181910b75d" />
 
 
@@ -102,7 +103,7 @@ This dashboard represents a masterful integration of data analysis, visualizatio
 - The project exemplifies how data visualization can serve as both a diagnostic tool for understanding social issues and a catalyst for change, making complex gender inequality data accessible and actionable for diverse audiences.
 - It bridges the gap between academic research and practical application, providing a roadmap for both individual and institutional action toward gender equality
 
-[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjQ0MGFkNzAtMGQxNi00NGFhLTllMmItNWNmMjVlODE3NjhhIiwidCI6IjQzMDJjMGUwLWMxM2MtNDg0My05NTdmLTc1YmYwZDNiOGJmZiIsImMiOjl9&pageName=40c13d602d5ba005d551)
+
 
 
 ### The Effects of Alcohol Consumption and Social Factors on Student Performance
