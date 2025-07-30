@@ -28,10 +28,10 @@ This comprehensive Power BI dashboard, transforms complex global gender inequali
 #### Detailed Section Analysis
 1. Overview Page
 The executive summary presents key global statistics that immediately highlight the scope of gender inequality:
-Population Distribution: Near-equal global distribution (49.89% female vs 50.11% male) masks underlying disparities
-Economic Leadership: Only 19.25% of firms have female top managers, revealing significant glass ceiling effects
-Wage Inequality: 26.60% gender wage gap demonstrates persistent economic discrimination
-Marriage Patterns: 3.52-year gender gap in mean age at first marriage reflects cultural and social inequalities
+- Population Distribution: Near-equal global distribution (49.89% female vs 50.11% male) masks underlying disparities
+- Economic Leadership: Only 19.25% of firms have female top managers, revealing significant glass ceiling effects
+- Wage Inequality: 26.60% gender wage gap demonstrates persistent economic discrimination
+- Marriage Patterns: 3.52-year gender gap in mean age at first marriage reflects cultural and social inequalities
 
 2. Demographics & Education
 Educational Achievement: Women actually have 0.58 more years of schooling than men globally, showing positive educational trends
