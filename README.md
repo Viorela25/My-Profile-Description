@@ -104,8 +104,6 @@ This dashboard represents a masterful integration of data analysis, visualizatio
 
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjQ0MGFkNzAtMGQxNi00NGFhLTllMmItNWNmMjVlODE3NjhhIiwidCI6IjQzMDJjMGUwLWMxM2MtNDg0My05NTdmLTc1YmYwZDNiOGJmZiIsImMiOjl9&pageName=40c13d602d5ba005d551)
 
-**Key Insights:**
-*   *More details coming soon!*
 
 ### The Effects of Alcohol Consumption and Social Factors on Student Performance
 
