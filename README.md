@@ -95,11 +95,11 @@ OECD Gender Data Network
 Project Conclusion
 
 This dashboard represents a masterful integration of data analysis, visualization, and social advocacy. It successfully:
-Reveals Systemic Inequalities: The data consistently shows women facing disadvantages across economic, political, health, and safety dimensions, despite near-equal population distribution.
-Highlights Progress Areas: Education shows positive trends, with women achieving higher schooling levels than men globally.
-Identifies Critical Gaps: Gender-based violence remains alarmingly high, with over a quarter of women experiencing intimate partner violence.
-Provides Actionable Solutions: The final section transforms data insights into concrete professional and personal actions.
-Demonstrates Visual Excellence: Clean design, appropriate color coding, and multiple visualization types enhance data comprehension.
+....*Reveals Systemic Inequalities: The data consistently shows women facing disadvantages across economic, political, health, and safety dimensions, despite near-equal population distribution.
+....*Highlights Progress Areas: Education shows positive trends, with women achieving higher schooling levels than men globally.
+....*Identifies Critical Gaps: Gender-based violence remains alarmingly high, with over a quarter of women experiencing intimate partner violence.
+....*Provides Actionable Solutions: The final section transforms data insights into concrete professional and personal actions.
+....*Demonstrates Visual Excellence: Clean design, appropriate color coding, and multiple visualization types enhance data comprehension.
 The project exemplifies how data visualization can serve as both a diagnostic tool for understanding social issues and a catalyst for change, making complex gender inequality data accessible and actionable for diverse audiences. It bridges the gap between academic research and practical application, providing a roadmap for both individual and institutional action toward gender equality
 
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjQ0MGFkNzAtMGQxNi00NGFhLTllMmItNWNmMjVlODE3NjhhIiwidCI6IjQzMDJjMGUwLWMxM2MtNDg0My05NTdmLTc1YmYwZDNiOGJmZiIsImMiOjl9&pageName=40c13d602d5ba005d551)
