@@ -159,7 +159,7 @@ Page 2: Other Social and Academic Factors
 - Health status distribution
 - Family support impact on academic failures
   
-####Project Significance
+#### Project Significance
 This dashboard effectively demonstrates how data visualization can reveal complex social patterns in student behavior. It shows that alcohol consumption is not isolated but interconnected with academic performance, family dynamics, study habits, and future aspirations. The findings suggest that interventions targeting family support, study habits, and academic engagement could potentially reduce alcohol consumption among students.
 The project serves as a valuable tool for educators, counselors, and policymakers to understand risk factors and develop targeted intervention strategies for student well-being.
 
