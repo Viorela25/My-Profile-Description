@@ -111,9 +111,9 @@ This dashboard represents a masterful integration of data analysis, visualizatio
 [View Dashboard](https://app.powerbi.com/links/iLJyd98ss2?ctid=4302c0e0-c13c-4843-957f-75bf0d3b8bff&pbi_source=linkShare)
 <img width="1402" height="794" alt="image" src="https://github.com/user-attachments/assets/5751f6b1-8a9f-494b-b595-f8f7f6e9b172" />
 
-####Project Overview
+#### Project Overview
 This Power BI dashboard analyzes student alcohol consumption patterns and their correlations with academic performance, social factors, and demographic variables. The project examines data from 390 students aged 15-19 to understand the complex relationships between alcohol use and various life factors.
-###Key Findings
+### Key Findings
 Core Statistics:
 - Total Students: 390
 - Age Range: 15-19 years
