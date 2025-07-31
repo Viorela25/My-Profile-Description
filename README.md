@@ -144,8 +144,8 @@ Critical Correlations:
 4. Age Progression:
 - Alcohol consumption generally increases with age (15-19)
 - Grades tend to decline as age and alcohol consumption increase
-- Dashboard Structure
-- Page 1: Alcohol Consumption Analysis
+  
+Page 1: Alcohol Consumption Analysis
 - Key performance indicators
 - Age vs. alcohol consumption vs. grades correlation
 - Alcohol consumption by failures, education aspirations, and family support
