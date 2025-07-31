@@ -108,17 +108,60 @@ This dashboard represents a masterful integration of data analysis, visualizatio
 
 ### The Effects of Alcohol Consumption and Social Factors on Student Performance
 
-This dashboard analyzes the relationship between alcohol consumption, social factors, and academic performance among students.
-
 [View Dashboard](https://app.powerbi.com/links/iLJyd98ss2?ctid=4302c0e0-c13c-4843-957f-75bf0d3b8bff&pbi_source=linkShare)
 
-**Key Insights:**
-*   *More details coming soon!*
+####Project Overview
+This Power BI dashboard analyzes student alcohol consumption patterns and their correlations with academic performance, social factors, and demographic variables. The project examines data from 390 students aged 15-19 to understand the complex relationships between alcohol use and various life factors.
+###Key Findings
+Core Statistics:
+- Total Students: 390
+- Age Range: 15-19 years
+- Average Alcohol Consumption: 3.75 (on a scale of 1 to 5)
+- Average Grade: 11.02
+- Average Failures: 0.31
+- Average Absences: 5.69
+- 
+Critical Correlations:
+1. Academic Performance Impact:
+- Students with 2 failures show higher alcohol consumption than those with 0 failures
+- Higher alcohol consumption correlates with lower grades
+- Students who don't want higher education have significantly higher alcohol consumption (4.32 vs 3.72)
+  
+2. Family and Social Factors:
+- Students without family support show higher alcohol consumption (3.91 vs 3.65)
+- Family relations quality inversely correlates with alcohol use:
+- "Very Bad" relations: 4.50 average consumption
+- "Excellent" relations: 3.44 average consumption
+- 87% receive educational support, 67% are in romantic relationships
+  
+3. Study Habits and Health:
+- Strong inverse correlation between study time and alcohol consumption:
+- 1 hour study time: 4.48 average consumption
+- 3 hours study time: 3.03 average consumption
+- Health status shows mixed patterns, with "Very Good" health students having highest consumption (4.06)
+  
+4. Age Progression:
+- Alcohol consumption generally increases with age (15-19)
+- Grades tend to decline as age and alcohol consumption increase
+- Dashboard Structure
+- Page 1: Alcohol Consumption Analysis
+- Key performance indicators
+- Age vs. alcohol consumption vs. grades correlation
+- Alcohol consumption by failures, education aspirations, and family support
+- Detailed breakdowns by family relations, health status, and study time
+  
+Page 2: Other Social and Academic Factors
+- Study time correlation with grades
+- Educational support distribution (87% receive support)
+- Romantic relationship status (67% in relationships)
+- Family relations quality (76% have "Good" or "Excellent" relations)
+- Health status distribution
+- Family support impact on academic failures
+  
+####Project Significance
+This dashboard effectively demonstrates how data visualization can reveal complex social patterns in student behavior. It shows that alcohol consumption is not isolated but interconnected with academic performance, family dynamics, study habits, and future aspirations. The findings suggest that interventions targeting family support, study habits, and academic engagement could potentially reduce alcohol consumption among students.
+The project serves as a valuable tool for educators, counselors, and policymakers to understand risk factors and develop targeted intervention strategies for student well-being.
 
----
-*More projects will be added here.*
-
----
 
 
 
